@@ -49,7 +49,7 @@ public class Main {
         System.out.println("Всего работников в компании " +employeeCompany+ " человек");
         var allEmployee=employeeCompany+94;
         var openingHours=allEmployee*8;
-        System.out.println("Если в компании работает "+allEmployee+" человек, то всего "+openingHours+ " часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает "+allEmployee+" человек, то всего "+openingHours+ " часов работы может быть поделено между сотрудниками!");
 
 
 
